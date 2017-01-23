@@ -74,6 +74,3 @@ def main():
 	good_image = search.main(most_confident)
 
 main()
-#google custom search api key: AIzaSyCumRtuy6zuletj1GwYToD0mvzlwnQaIx0
-#152394920558-fca3p88n1fin8l8gfab20f9su9dm89ai.apps.googleusercontent.com
-#0XPcIPy3ZGossnw_7RxbB4fG
